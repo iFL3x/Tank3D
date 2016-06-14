@@ -1,0 +1,40 @@
+Mono path[0] = 'D:/chkoefab/Documents/Projects/Tank3D/Builds/tank3d_Data/Managed'
+Mono path[1] = 'D:/chkoefab/Documents/Projects/Tank3D/Builds/tank3d_Data/Mono'
+Mono config path = 'D:/chkoefab/Documents/Projects/Tank3D/Builds/tank3d_Data/Mono/etc'
+PlayerConnection initialized from D:/chkoefab/Documents/Projects/Tank3D/Builds/tank3d_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55289
+Multi-casting "[IP] 192.168.43.42 [Port] 55289 [Flags] 2 [Guid] 987477668 [EditorId] 918357922 [Version] 1048832 [Id] WindowsPlayer(NBCH-BR-00077) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.43.42:55289]
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\chkoefab\Documents\Projects\Tank3D\Builds\tank3d_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\chkoefab\Documents\Projects\Tank3D\Builds\tank3d_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\chkoefab\Documents\Projects\Tank3D\Builds\tank3d_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\chkoefab\Documents\Projects\Tank3D\Builds\tank3d_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\chkoefab\Documents\Projects\Tank3D\Builds\tank3d_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\chkoefab\Documents\Projects\Tank3D\Builds\tank3d_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\chkoefab\Documents\Projects\Tank3D\Builds\tank3d_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\chkoefab\Documents\Projects\Tank3D\Builds\tank3d_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\chkoefab\Documents\Projects\Tank3D\Builds\tank3d_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.414 seconds
+desktop: 1920x1080 60Hz; virtual: 5760x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\chkoefab\Documents\Projects\Tank3D\Builds\tank3d_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: ce4 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.205934 ms
+System memory in use before: 26.0 MB.
+System memory in use after: 26.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 270.
+Total: 2.064143 ms (FindLiveObjects: 0.100356 ms CreateObjectMapping: 0.156996 ms MarkObjects: 1.679444 ms  DeleteObjects: 0.022047 ms)
+
